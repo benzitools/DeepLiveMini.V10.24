@@ -55,6 +55,14 @@ start.py
 
 ---
 
+## 📺 Screenshot (Click the image to watch the video on YouTube):
+- **Screenshot**
+[![Screenshot](https://github.com/benzitools/DeepLiveMini.V10.24/blob/main/screenshot/1.png)
+- **Screenshot**
+[![Screenshot](https://github.com/benzitools/DeepLiveMini.V10.24/blob/main/screenshot/2.png)
+
+---
+
 ## 🛠️ **How to Use**:
 1. Clone the repository to your local machine:
    ```bash
