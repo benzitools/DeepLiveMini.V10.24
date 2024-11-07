@@ -1,9 +1,8 @@
 
-# 🎭 DEEP FAKE LIVE - MINI V8.24  
-## 📤 UPGRADED TO V10.24  
-**[2024.10.02]**  
-**📤 UPDATED**  
-**[2024.10.20]**
+# 🎭 DEEP FAKE LIVE - MINI V8.24   
+**📤 UPGRADED TO V10.24 [2024.10.02]**  
+**📤 UPDATED [2024.10.20]**
+
 
 ---
 
