@@ -86,8 +86,7 @@ This project is **open-source** and distributed under the MIT License. You are f
 
 ---
 
-## 📞 **Support**:
-For any questions, feel free to contact us via [Telegram: @benzitools_support](https://t.me/benzitools_support).
+- [📢 **TELEGRAM CHANNEL** ➔](https://t.me/benzi_tools)
 
 ---
 
